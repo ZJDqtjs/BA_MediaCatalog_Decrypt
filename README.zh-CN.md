@@ -55,3 +55,7 @@ python unlock.py
 ## 适用范围
 
 本项目仅用于逆向学习、二进制格式研究与个人研究流程。
+
+## 开源协议
+
+本项目采用 [MIT License](LICENSE)。

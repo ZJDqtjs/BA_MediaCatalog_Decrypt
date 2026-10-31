@@ -57,3 +57,7 @@ python unlock.py
 ## Intended Use
 
 This project is intended for reverse-engineering learning, binary format study, and personal research workflows only.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
